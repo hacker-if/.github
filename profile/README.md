@@ -4,10 +4,7 @@ Bem-vindo ao **HackerSpace IFUSP**! 🚀
 
 O HackerSpace IFUSP é um espaço colaborativo e criativo no Instituto de Física da USP, dedicado à inovação, ao aprendizado e à troca de ideias. Somos um grupo que incentiva o desenvolvimento de projetos tecnológicos, científicos e artísticos, promovendo o compartilhamento de conhecimento entre estudantes, pesquisadores e entusiastas.
 
----
-
-## 🎯 **Missão**
-Fomentar a cultura maker, a interdisciplinaridade e o aprendizado prático por meio de projetos colaborativos que integram tecnologia, ciência e criatividade.
+Nossa missão é fomentar a cultura maker, a interdisciplinaridade e o aprendizado prático por meio de projetos colaborativos que integram tecnologia, ciência e criatividade.
 
 ---
 
@@ -29,7 +26,7 @@ Estamos localizados no Instituto de Física da USP, no campus da Cidade Universi
 
 ## 📆 **Como participar?**
 1. **Visite-nos**: O espaço está constantemente aberto para novos frequentadores!
-2. **Contribua**: Proponha um projeto, colabore em atividades ou compartilhe conhecimento.
+2. **Contribua**: Proponha ou participe de um projeto, colabore em atividades ou compartilhe conhecimento. Compartilhe código, materiais ou equipamentos que possam beneficiar a comunidade.
 3. **Divulgue**: Ajude-nos a crescer promovendo o HackerSpace IFUSP para sua comunidade.
 
 ---
@@ -39,18 +36,7 @@ Estamos localizados no Instituto de Física da USP, no campus da Cidade Universi
 - **Instagram**: [@hackerspace.ifusp](https://instagram.com/hackerspace.ifusp)  
 - **E-mail**: hackerspace@if.usp.br
 
----
-
-## 📋 **Como contribuir com projetos?**
-1. Envie suas ideias ou junte-se a um projeto em andamento.
-2. Compartilhe código, materiais ou equipamentos que possam beneficiar a comunidade.
-
----
-
-## 🧑‍🔬 **Quem somos?**
-Somos estudantes, professores e entusiastas de diversas áreas, unidos pelo desejo de aprender, inovar e criar. Nosso espaço está aberto a todos que compartilhem do espírito hacker!
-
-**Junte-se a nós!**
+E também acompanhe o **IF-USP** nas redes sociais: [IFUSP](linktr.ee/fisicaUSP)
 
 ---
 
@@ -59,4 +45,4 @@ Os repositórios e seus conteúdos estão licenciados sob a licença MIT. Consul
 
 ---
 
-### 🚀 _"Hack the Planet!"_
+### 👾 _"É fazendo que se aprende a fazer aquilo que se deve aprender a fazer"_
