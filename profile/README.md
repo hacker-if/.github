@@ -41,7 +41,7 @@ E também acompanhe o **IF-USP** nas redes sociais: [IFUSP](linktr.ee/fisicaUSP)
 ---
 
 ## 📝 **Licença**
-Os repositórios e seus conteúdos estão licenciados sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) (W.I.P) para mais informações.
+Os repositórios e seus conteúdos estão licenciados sob a licença GPL-3.0. Consulte o arquivo [LICENSE](LICENSE) (W.I.P) para mais informações.
 
 ---
 
